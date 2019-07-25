@@ -1,0 +1,3 @@
+{
+    "mongoURI":"mongodb+srv://simisoluwa:root@cluster0-uiv1i.mongodb.net/devstack?retryWrites=true&w=majority"
+}
