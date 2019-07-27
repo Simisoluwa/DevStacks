@@ -1,3 +1,6 @@
 {
-    "mongoURI":"mongodb+srv://simisoluwa:root@cluster0-uiv1i.mongodb.net/devstack?retryWrites=true&w=majority"
+    "mongoURI":"mongodb+srv://simisoluwa:root@cluster0-uiv1i.mongodb.net/devstack?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId":"fdf69c0f23aea8cf2982",
+    "githubSecret":"eab6720f867f16056345adfe7004433040e1ba60"
 }
